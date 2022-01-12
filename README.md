@@ -13,7 +13,7 @@ Install blackbox exporter:
 helm install blackbox-exporter prometheus-community/prometheus-blackbox-exporter  -f values.yaml 
 
 YAML Avail at git:
-	https://github.com/Su-HackZ/blackbox-exporter/blob/main/values.yaml
+	https://raw.githubusercontent.com/Su-HackZ/blackbox-exporter/main/values.yaml
 
 Check the deployment:
 
